@@ -1,6 +1,8 @@
 # RxUIL
 A reactive layer on top of universal image loader (easy and hassle-free) using [RxJava 2](https://github.com/ReactiveX/RxJava)
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-RxUIL-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/5877)
+
 # Gradle
 ````
 compile 'com.ark.android:RxUIL:1.0.2'
