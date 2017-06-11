@@ -1,6 +1,11 @@
 # RxUIL
 A reactive layer on top of universal image loader (easy and hassle-free) using [RxJava 2](https://github.com/ReactiveX/RxJava)
 
+# Gradle
+````
+compile 'com.ark.android:RxUIL:1.0.2'
+````
+
 # how to use
 #### easy just call
 
